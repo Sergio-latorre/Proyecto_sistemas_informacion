@@ -1,0 +1,33 @@
+{
+  "tabla_hechos": "laptops",
+  "consulta": [
+    "consultar",
+    [
+      8
+    ]
+  ],
+  "reporte": [
+    "reportar",
+    [
+      8
+    ]
+  ],
+  "registro_valido": [
+    "registrar",
+    [
+      "HP EliteBook",
+      4200,
+      16,
+      1
+    ]
+  ],
+  "registro_invalido": [
+    "registrar",
+    [
+      "Laptop Invalida",
+      4200,
+      16,
+      999
+    ]
+  ]
+}

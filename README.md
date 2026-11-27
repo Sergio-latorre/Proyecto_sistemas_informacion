@@ -1,7 +1,7 @@
 # Subdirección de Aseo de una gobernación (caso guiado)
 
-**App:** (pendiente)  
-**Repositorio:** (pendiente)
+**App:** https://proyecto-sistemas-informacion.onrender.com/  
+**Repositorio:** https://github.com/Sergio-latorre/Proyecto_sistemas_informacion
 
 **Necesidad:** Saber cada mes cuánto recoge cada municipio para decidir dónde reforzar la recolección. **Quién decide:** Subdirectora de aseo. **Tipo de SI:** MIS.
 
